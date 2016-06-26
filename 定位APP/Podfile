@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'SlideMenuControllerSwift'
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'Alamofire', '~> 3.0'
+pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+pod 'SDWebImage', '~>3.7'
+pod 'AMapLocation' #定位SDK
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'HxColor', '~> 2.0'
+pod 'RMDateSelectionViewController','~> 2.0.3'
